@@ -1,7 +1,7 @@
-import { BuildingCard } from './components/BuildingCard';
+import { GithubUser } from './components/GithubUser';
 
 export function App() {
   return (
-    <BuildingCard />
+    <GithubUser />
   );
 }
